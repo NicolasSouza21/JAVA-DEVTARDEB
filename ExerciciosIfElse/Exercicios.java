@@ -7,7 +7,7 @@ public class Exercicios {
     Scanner sc = new Scanner(System.in);
 
     public void exercicio1() {  
-        System.out.println( 
+        System.out.println("Digite o valor 1 ");
         int nota1 = sc.nextInt();
         System.out.print("Digite o valor 2");
         int nota2 = sc.nextInt();
