@@ -1,8 +1,10 @@
-package IteracaoFor;
+package Matrizes;
 
 public class App {
     public static void main(String[] args) {
-        ExemploFor obj = new ExemploFor();
+        Matrizes obj = new Matrizes();
         obj.ex2();
-    }
+    
+}
+    
 }
