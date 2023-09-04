@@ -2,6 +2,7 @@
 import javax.swing.*;
 
 public class ClickJButton extends JFrame {
+    int cont;
     public ClickJButton() {
         super("Click");
         JPanel painel1 = new JPanel();
@@ -14,6 +15,7 @@ public class ClickJButton extends JFrame {
         this.pack();
         this.setDefaultCloseOperation(2);
         this.setVisible(true);
+        
         
 
     }
